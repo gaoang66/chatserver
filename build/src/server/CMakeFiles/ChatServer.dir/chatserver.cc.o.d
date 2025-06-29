@@ -1,6 +1,7 @@
 src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o: \
- /home/gao/chat/src/server/chatserver.cc /usr/include/stdc-predef.h \
- /home/gao/chat/include/server/chatserver.h \
+ /home/gao/chat/chatserver/src/server/chatserver.cc \
+ /usr/include/stdc-predef.h \
+ /home/gao/chat/chatserver/include/server/chatserver.h \
  /usr/include/muduo/net/TcpServer.h /usr/include/muduo/base/Atomic.h \
  /usr/include/muduo/base/noncopyable.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
@@ -359,17 +360,17 @@ src/server/CMakeFiles/ChatServer.dir/chatserver.cc.o: \
  /usr/include/nlohmann/ordered_map.hpp \
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
- /home/gao/chat/include/server/chatservice.h \
- /home/gao/chat/include/server/model/usermodel.h \
- /home/gao/chat/include/server/model/user.h \
- /home/gao/chat/include/server/model/offlinemessage.h \
+ /home/gao/chat/chatserver/include/server/chatservice.h \
+ /home/gao/chat/chatserver/include/server/model/usermodel.h \
+ /home/gao/chat/chatserver/include/server/model/user.h \
+ /home/gao/chat/chatserver/include/server/model/offlinemessage.h \
  /usr/include/c++/11/mutex /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
- /home/gao/chat/include/server/model/friendmodel.h \
- /home/gao/chat/include/server/model/groupmodel.h \
- /home/gao/chat/include/server/model/group.h \
- /home/gao/chat/include/server/model/groupuser.h \
- /home/gao/chat/include/server/redis/redis.h \
+ /home/gao/chat/chatserver/include/server/model/friendmodel.h \
+ /home/gao/chat/chatserver/include/server/model/groupmodel.h \
+ /home/gao/chat/chatserver/include/server/model/group.h \
+ /home/gao/chat/chatserver/include/server/model/groupuser.h \
+ /home/gao/chat/chatserver/include/server/redis/redis.h \
  /usr/include/hiredis/hiredis.h /usr/include/hiredis/read.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/hiredis/sds.h \
  /usr/include/hiredis/alloc.h /usr/include/c++/11/stdlib.h

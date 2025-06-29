@@ -1,6 +1,7 @@
 src/server/CMakeFiles/ChatServer.dir/db/db.cc.o: \
- /home/gao/chat/src/server/db/db.cc /usr/include/stdc-predef.h \
- /home/gao/chat/include/server/db/db.h /usr/include/mysql/mysql.h \
+ /home/gao/chat/chatserver/src/server/db/db.cc /usr/include/stdc-predef.h \
+ /home/gao/chat/chatserver/include/server/db/db.h \
+ /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \

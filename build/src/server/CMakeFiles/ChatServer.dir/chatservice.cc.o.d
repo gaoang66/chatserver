@@ -1,6 +1,7 @@
 src/server/CMakeFiles/ChatServer.dir/chatservice.cc.o: \
- /home/gao/chat/src/server/chatservice.cc /usr/include/stdc-predef.h \
- /home/gao/chat/include/server/chatservice.h \
+ /home/gao/chat/chatserver/src/server/chatservice.cc \
+ /usr/include/stdc-predef.h \
+ /home/gao/chat/chatserver/include/server/chatservice.h \
  /usr/include/muduo/net/TcpConnection.h \
  /usr/include/muduo/base/noncopyable.h \
  /usr/include/muduo/base/StringPiece.h /usr/include/string.h \
@@ -356,18 +357,19 @@ src/server/CMakeFiles/ChatServer.dir/chatservice.cc.o: \
  /usr/include/nlohmann/ordered_map.hpp \
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
- /home/gao/chat/include/server/model/usermodel.h \
- /home/gao/chat/include/server/model/user.h \
- /home/gao/chat/include/server/model/offlinemessage.h \
+ /home/gao/chat/chatserver/include/server/model/usermodel.h \
+ /home/gao/chat/chatserver/include/server/model/user.h \
+ /home/gao/chat/chatserver/include/server/model/offlinemessage.h \
  /usr/include/c++/11/mutex /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
- /home/gao/chat/include/server/model/friendmodel.h \
- /home/gao/chat/include/server/model/groupmodel.h \
- /home/gao/chat/include/server/model/group.h \
- /home/gao/chat/include/server/model/groupuser.h \
- /home/gao/chat/include/server/redis/redis.h \
+ /home/gao/chat/chatserver/include/server/model/friendmodel.h \
+ /home/gao/chat/chatserver/include/server/model/groupmodel.h \
+ /home/gao/chat/chatserver/include/server/model/group.h \
+ /home/gao/chat/chatserver/include/server/model/groupuser.h \
+ /home/gao/chat/chatserver/include/server/redis/redis.h \
  /usr/include/hiredis/hiredis.h /usr/include/hiredis/read.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/hiredis/sds.h \
  /usr/include/hiredis/alloc.h /usr/include/c++/11/stdlib.h \
- /home/gao/chat/include/public.h /usr/include/muduo/base/Logging.h \
- /usr/include/muduo/base/LogStream.h /usr/include/c++/11/iostream
+ /home/gao/chat/chatserver/include/public.h \
+ /usr/include/muduo/base/Logging.h /usr/include/muduo/base/LogStream.h \
+ /usr/include/c++/11/iostream

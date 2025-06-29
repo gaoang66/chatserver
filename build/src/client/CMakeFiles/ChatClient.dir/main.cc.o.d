@@ -1,5 +1,5 @@
 src/client/CMakeFiles/ChatClient.dir/main.cc.o: \
- /home/gao/chat/src/client/main.cc /usr/include/stdc-predef.h \
+ /home/gao/chat/chatserver/src/client/main.cc /usr/include/stdc-predef.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -303,7 +303,8 @@ src/client/CMakeFiles/ChatClient.dir/main.cc.o: \
  /usr/include/asm-generic/sockios.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/bits/in.h \
- /usr/include/arpa/inet.h /home/gao/chat/include/server/model/group.h \
- /home/gao/chat/include/server/model/groupuser.h \
- /home/gao/chat/include/server/model/user.h \
- /home/gao/chat/include/public.h
+ /usr/include/arpa/inet.h \
+ /home/gao/chat/chatserver/include/server/model/group.h \
+ /home/gao/chat/chatserver/include/server/model/groupuser.h \
+ /home/gao/chat/chatserver/include/server/model/user.h \
+ /home/gao/chat/chatserver/include/public.h
